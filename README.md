@@ -1,4 +1,4 @@
-# 🧑‍💻 Perfil Profissional - Alessandro Coutinho
+# 🧑‍💻 Perfil Profissional - Alessandro Couto
 
 Este repositório contém o código-fonte da minha página pessoal de perfil profissional. O objetivo desta página é apresentar de forma simples e direta meu perfil, foco de estudo, habilidades e meios de contato.
 
