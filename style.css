@@ -39,3 +39,34 @@ a {
 a:hover {
     text-decoration: underline;
 }
+body.modo-escuro {
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+}
+
+body.modo-escuro h1 {
+    color: #f0f0f0;
+    border-bottom: 3px solid #3498db;
+}
+
+body.modo-escuro h2 {
+    color: #5dade2;
+}
+
+body.modo-escuro h3 {
+    color: #f0f0f0;
+}
+
+body.modo-escuro a {
+    color: #5dade2;
+}
+#botao-tema {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 6px;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    margin-bottom: 20px;
+}
