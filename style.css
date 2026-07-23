@@ -70,3 +70,17 @@ body.modo-escuro a {
     font-size: 14px;
     margin-bottom: 20px;
 }
+@media (max-width: 600px) {
+    body {
+        margin: 20px auto;
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+}
