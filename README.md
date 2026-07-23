@@ -10,12 +10,24 @@ Olá! Sou **Alessandro Coutinho**, estudante do 4º período de **Análise e Des
 * 🎓 **Formação**: Técnico em Informática para Internet e cursando ADS.
 * 💼 **Objetivo**: Buscando oportunidades de estágio na área de desenvolvimento de software.
 
+## 🌟 Funcionalidades
+
+* **Alternância de Tema (Dark Mode)**: Suporte a temas claro e escuro. Os usuários podem alternar facilmente clicando no botão no topo da página.
+* **Layout Responsivo**: O design se adapta para uma boa leitura em diferentes tamanhos de tela.
+
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto foi construído utilizando tecnologias web fundamentais para garantir simplicidade, leveza e compatibilidade:
 
 * **HTML5**: Estruturação semântica do conteúdo.
-* **CSS3**: Estilização personalizada, com foco em legibilidade, layout centralizado e harmonia visual.
+* **CSS3**: Estilização personalizada, com suporte para regras de estilo do modo escuro.
+* **JavaScript (ES6)**: Lógica de alternância de temas de forma dinâmica no navegador.
+
+## 📂 Estrutura de Arquivos
+
+* [index.html](file:///c:/Users/USER/OneDrive/Documentos/Desktop/minha-pagina-html/index.html): Estrutura principal e marcação HTML da página.
+* [style.css](file:///c:/Users/USER/OneDrive/Documentos/Desktop/minha-pagina-html/style.css): Estilos visuais, responsividade e regras de cor para o modo escuro.
+* [script.js](file:///c:/Users/USER/OneDrive/Documentos/Desktop/minha-pagina-html/script.js): Lógica de manipulação do DOM para controle do tema claro/escuro.
 
 ## 💻 Como Visualizar o Projeto
 
@@ -23,7 +35,7 @@ Para abrir e visualizar a página localmente no seu navegador:
 
 1. Baixe ou clone os arquivos do projeto.
 2. Navegue até a pasta do projeto.
-3. Abra o arquivo `index.html` em qualquer navegador web (Chrome, Firefox, Edge, Safari, etc.) dando um duplo clique sobre ele ou arrastando-o para o navegador.
+3. Abra o arquivo [index.html](file:///c:/Users/USER/OneDrive/Documentos/Desktop/minha-pagina-html/index.html) em qualquer navegador web (Chrome, Firefox, Edge, Safari, etc.) dando um duplo clique sobre ele ou arrastando-o para o navegador.
 
 ## 🌐 Contato
 
